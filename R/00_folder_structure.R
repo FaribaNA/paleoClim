@@ -1,0 +1,6 @@
+dir.create('./data')
+dir.create('./data/raw')
+dir.create('./R')
+dir.create('./results')
+dir.create('./data/processed')
+dir.create('./docs')
